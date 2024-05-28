@@ -1,0 +1,1 @@
+This model predicts the Placement status of student based on factors like College Name, CGPA, ML Knowlegde and Speaking Skills
