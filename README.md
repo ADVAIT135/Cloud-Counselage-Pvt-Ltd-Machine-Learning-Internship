@@ -1,3 +1,5 @@
+# <img src = "https://www.cloudcounselage.com/hs-fs/hubfs/CCPL%20Logo%202022%20-%20Transparent.png?width=98&height=75&name=CCPL%20Logo%202022%20-%20Transparent.png?raw=True">
+
 # Cloud-Counselage-Pvt-Ltd-Machine-Learning-Internship
 This Repository consists of all the Jupyter Notebooks, reports, pdfs which were a part of the Machine Learning Internship at Cloud Counselage Pvt. Ltd.
 
