@@ -10,3 +10,5 @@ This Repository consists of all the Jupyter Notebooks, reports, pdfs which were 
 
 
 #### [Demo / Walkthrough of both projects](https://drive.google.com/file/d/1JQ_oM3vC-0NNeBI3ZnD3wFkqmqZfjl7P/view)
+
+## [Internship Completion Letter](https://github.com/ADVAIT135/Cloud-Counselage-Pvt-Ltd-Machine-Learning-Internship/blob/b8e21fb541ce388f9a983b8a30708e785eab9ca6/1722842433687-certificate.png)
